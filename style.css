@@ -1,6 +1,10 @@
 /* Basic Style */
-.wrapper {
+
+body {
     background-color: #f8f8f8;
+}
+
+.wrapper {
     color: #333;
     font-family: Lato, sans-serif;
 }
